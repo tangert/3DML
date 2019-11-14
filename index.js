@@ -26,3 +26,8 @@ row
 	box
 	box
 	box
+
+// idea:
+// link up this syntax to A-frame / webgl / threejs and create an autolayout algorithm that converts this lightweight markup into absolute coordinates.
+
+// also include utlities for easy styling, physics, lighting, etc
